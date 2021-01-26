@@ -1,0 +1,3 @@
+[submodule "llvm/lib/Target/CorelabVerilog"]
+	path = llvm/lib/Target/CorelabVerilog
+	url = https://github.com/corelab-src/CorelabVerilog
